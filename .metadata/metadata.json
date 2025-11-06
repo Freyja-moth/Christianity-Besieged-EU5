@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Christianity Besieged",
+	"id":	"christianity_besieged",
+	"version":	"0.1.0",
+	"supported_game_version":	"1.0.1",
+	"short_description":	"An WIP EU5 port of the Christianity Besieged mod.",
+	"tags":	["Alternative history"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
